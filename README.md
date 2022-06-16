@@ -1,1 +1,1 @@
-# Master Class Thesis { Data Science }
+# Data Science Thesis
